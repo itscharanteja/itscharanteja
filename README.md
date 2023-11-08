@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Charan Sri Teja</h1>
 <h3 align="center">A student and passionate about development and problem solving about the things I stuck in.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itscharanteja&label=Profile%20views&color=0e75b6&style=flat" alt="itscharanteja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itscharanteja" alt="itscharanteja" /></a> </p>
 
 - 🔭 I’m currently working on [Full stack Chat-App](https://github.com/itscharanteja/hello-chat)
 
