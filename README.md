@@ -7,9 +7,9 @@ Student
 I am a student passionate about development and problem-solving about the things I am stuck in.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://itscharanteja.github.io/Portfolio/)
+* 🖥️  See my portfolio at 
 * ✉️  You can contact me at [itscharanteja789@gmail.com](mailto:itscharanteja789@gmail.com)
-* 🚀  I'm currently working on [Full Stack Chat App](http://github.com/itscharanteja/hello-chat)
+* 🚀  I'm currently working on 
 * 🧠  I'm learning React JS and React Native
 * 🤝  I'm open to collaborating on Web and mobile app development
 
