@@ -7,11 +7,11 @@
 
 ### 👨‍💻 Quick Bio
 ```yaml
-location: India
+location: India | Sweden
 learning: React JS, React Native
 interests: Web Development, Mobile Apps, Problem Solving
 email: itscharanteja789@gmail.com
-portfolio: Coming Soon!
+portfolio: https://itscharanteja.github.io/personalportfolio/
 ```
 
 ### 🛠️ Tech Stack
