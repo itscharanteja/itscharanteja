@@ -1,51 +1,62 @@
 <div align="center">
-  <h1>👋 Hello World, I'm Charan Sri Teja</h1>
-  <h3>🚀 Full Stack Developer | Problem Solver</h3>
+
+# Charan Sri Teja Burra
+
+Full-stack engineer who builds clean, fast things for the web and mobile.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-sri-teja-burra-a386a5225/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:itscharanteja@gmail.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://itscharanteja.hashnode.dev)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://www.stackoverflow.com/users/18064433/charan-teja)
+
 </div>
 
-> Passionate developer from India, crafting innovative solutions for the digital world. Currently exploring React ecosystem and building impactful web & mobile applications.
+---
 
-### 👨‍💻 Quick Bio
-```yaml
-location: India | Sweden
-learning: React JS, React Native
-interests: Web Development, Mobile Apps, Problem Solving
-email: itscharanteja789@gmail.com
-portfolio: https://itscharanteja.github.io/personalportfolio/
-```
+I work across the stack — React and TypeScript on the frontend, Node.js and Python on the backend, deployed on GCP and AWS with Docker. I use AI coding agents like Claude Code and Cursor with custom project rules to move fast without breaking things.
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-</p>
+My [B.Sc. thesis](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A1981816) explored computer vision and 2D-to-3D pose estimation, where I built a markerless motion capture pipeline and contributed the AthletePose3D benchmark dataset.
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/charan-sri-teja-b-a386a5225/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.github.com/itscharanteja"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;
-  <a href="https://itscharanteja.hashnode.dev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" /></a>&nbsp;
-  <a href="https://www.stackoverflow.com/users/18064433/charan-teja"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a>&nbsp;
-  <a href="http://www.instagram.com/itscharanteja"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;
-  <a href="https://www.x.com/itscharanteja1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-</p>
+---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itscharanteja&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</p>
+### What I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscharanteja&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+
+---
+
+### What I've been building
+
+🧠 **Pose Estimation Pipeline** — Markerless motion capture for cycling biomechanics with a Streamlit app · `Python` `OpenCap` `CV`
+
+📱 **ExpenseHive** — Cross-platform expense tracker with real-time sync and offline support · `React Native` `Firebase`
+
+🌐 **Full-Stack Web Platform** — Auth, real-time filtering, containerized deployment · `React` `ASP.NET Core` `Docker`
+
+🤖 **AI Ticketing Assistant** — Production backend with 36/36 tests passing and full CI/CD · `Node.js` `PostgreSQL`
+
+---
 
 <div align="center">
-  
-  ---
-  💡 *"Building the future, one commit at a time"* 
+
+<img src="https://github-readme-stats.vercel.app/api?username=itscharanteja&show_icons=true&count_private=true&title_color=7b61ff&text_color=f5f5f7&icon_color=c084fc&bg_color=0d1117&hide_border=true&ring_color=7b61ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itscharanteja&background=0d1117&border=00000000&stroke=7b61ff&ring=7b61ff&fire=f472b6&currStreakNum=f5f5f7&sideNums=f5f5f7&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" width="48%" />
+
 </div>
