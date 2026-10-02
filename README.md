@@ -19,7 +19,7 @@
 - B.Sc. in Computer Science from Blekinge Institute of Technology (Swedish Institute Scholarship), B.Tech from JNTU Kakinada
 - Rebuilt a content automation workflow into a full SaaS platform as the sole developer
 - Day to day I build LLM applications with the Claude API: RAG, agentic pipelines, and the plumbing around them
-- Daily user of Claude Code and Cursor
+- Daily user of Claude Code and Codex
 - Currently open to full-stack, backend and AI engineering roles in Sweden and India
 
 ---
